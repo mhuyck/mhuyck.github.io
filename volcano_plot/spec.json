@@ -1,0 +1,3713 @@
+{
+  "width": 500,
+  "height": 350,
+  "padding": "auto",
+  "data": [
+    {
+      "name": "source",
+      "format": {
+        "parse": {"diff": "number","neglog10qvalue": "number"}
+      },
+      "values": [
+        {
+          "neglog10qvalue": 1.660176558223366,
+          "cutoff": null,
+          "signature": "Node1pos",
+          "diff": -0.00460211823668007
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node2pos",
+          "diff": -0.0007672126006032464
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node3pos",
+          "diff": 0.006316412190489835
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node4pos",
+          "diff": 0.0019315433700373922
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node5pos",
+          "diff": -0.006705646821418268
+        },
+        {
+          "neglog10qvalue": 0.5426815091412629,
+          "cutoff": null,
+          "signature": "Node6pos",
+          "diff": 0.004850694770907525
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node7pos",
+          "diff": 0.0014096414020854685
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node8pos",
+          "diff": 0.004841241065809175
+        },
+        {
+          "neglog10qvalue": 4.514732793648281,
+          "cutoff": null,
+          "signature": "Node9pos",
+          "diff": -0.012917727194113032
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node10pos",
+          "diff": 0.0002908458263845835
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node11pos",
+          "diff": -0.0018043760869180688
+        },
+        {
+          "neglog10qvalue": 0.9371070437321216,
+          "cutoff": null,
+          "signature": "Node12pos",
+          "diff": 0.007692705925583655
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node13pos",
+          "diff": -0.0006246661118645713
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node14pos",
+          "diff": 0.00381754338804399
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node15pos",
+          "diff": 0.004477851009849545
+        },
+        {
+          "neglog10qvalue": 2.8565008223263724,
+          "cutoff": null,
+          "signature": "Node16pos",
+          "diff": 0.006501929972463197
+        },
+        {
+          "neglog10qvalue": 0.07092214666616423,
+          "cutoff": null,
+          "signature": "Node17pos",
+          "diff": 0.003078670452732476
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node18pos",
+          "diff": 0.002457483194661253
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node19pos",
+          "diff": -0.000042851053620353885
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node20pos",
+          "diff": -0.0006699687110546509
+        },
+        {
+          "neglog10qvalue": 0.03061576555588015,
+          "cutoff": null,
+          "signature": "Node21pos",
+          "diff": 0.002096504852448521
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node22pos",
+          "diff": -0.001680362269198602
+        },
+        {
+          "neglog10qvalue": 1.3796376140487232,
+          "cutoff": null,
+          "signature": "Node23pos",
+          "diff": 0.00473318230855478
+        },
+        {
+          "neglog10qvalue": 0.43071664665577136,
+          "cutoff": null,
+          "signature": "Node24pos",
+          "diff": -0.002709286753773197
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node25pos",
+          "diff": 0.0008225317510532949
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node26pos",
+          "diff": -0.002141075997726451
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node27pos",
+          "diff": -0.003517306265512632
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node28pos",
+          "diff": -0.003375609651822231
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node29pos",
+          "diff": -0.005840172881936027
+        },
+        {
+          "neglog10qvalue": 1.0225819547246957,
+          "cutoff": null,
+          "signature": "Node30pos",
+          "diff": -0.004921739166579541
+        },
+        {
+          "neglog10qvalue": 4.444191809699062,
+          "cutoff": null,
+          "signature": "Node31pos",
+          "diff": 0.020565942243240563
+        },
+        {
+          "neglog10qvalue": 1.6237915868323278,
+          "cutoff": null,
+          "signature": "Node32pos",
+          "diff": -0.004929860630362022
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node33pos",
+          "diff": -0.002983796866764372
+        },
+        {
+          "neglog10qvalue": 4.1314434878043755,
+          "cutoff": null,
+          "signature": "Node34pos",
+          "diff": 0.011434438905607705
+        },
+        {
+          "neglog10qvalue": 6.675728956227172,
+          "cutoff": null,
+          "signature": "Node35pos",
+          "diff": -0.04996363939193545
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node36pos",
+          "diff": -0.0008212844637881754
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node37pos",
+          "diff": 0.00000837563391373122
+        },
+        {
+          "neglog10qvalue": 6.2146790415071935,
+          "cutoff": null,
+          "signature": "Node38pos",
+          "diff": -0.019284316383095832
+        },
+        {
+          "neglog10qvalue": 3.0709007914248283,
+          "cutoff": null,
+          "signature": "Node39pos",
+          "diff": 0.006707115455519844
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node40pos",
+          "diff": 0.00014831425183658571
+        },
+        {
+          "neglog10qvalue": 3.509287143114143,
+          "cutoff": null,
+          "signature": "Node41pos",
+          "diff": 0.007655631238312495
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node42pos",
+          "diff": 0.00164342185359842
+        },
+        {
+          "neglog10qvalue": 1.6763392804039017,
+          "cutoff": null,
+          "signature": "Node43pos",
+          "diff": 0.005921142985040779
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node44pos",
+          "diff": -0.0012912978122587274
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node45pos",
+          "diff": 0.0024470587744226673
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node46pos",
+          "diff": -0.0010090527728523534
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node47pos",
+          "diff": 0.0014241962311703788
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node48pos",
+          "diff": 0.0012873819810564804
+        },
+        {
+          "neglog10qvalue": 2.3807274327317023,
+          "cutoff": null,
+          "signature": "Node49pos",
+          "diff": 0.00947632191003862
+        },
+        {
+          "neglog10qvalue": 3.1666188351058397,
+          "cutoff": null,
+          "signature": "Node50pos",
+          "diff": 0.007202872850597123
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node51pos",
+          "diff": -0.00045203469835637195
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node52pos",
+          "diff": 0.000693876831701658
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node53pos",
+          "diff": 0.008043887283247312
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node54pos",
+          "diff": 0.00005152177765651788
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node55pos",
+          "diff": -0.006610448196701146
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node56pos",
+          "diff": 0.0011276019713906075
+        },
+        {
+          "neglog10qvalue": 0.034834216379172785,
+          "cutoff": null,
+          "signature": "Node57pos",
+          "diff": -0.006531914998813955
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node58pos",
+          "diff": -0.005892508079098307
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node59pos",
+          "diff": 0.00034731490235328616
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node60pos",
+          "diff": 0.0045905854456299786
+        },
+        {
+          "neglog10qvalue": 1.5747984380940032,
+          "cutoff": null,
+          "signature": "Node61pos",
+          "diff": -0.007535733847375792
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node62pos",
+          "diff": 0.000007000932113968367
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node63pos",
+          "diff": 0.0006293845125790443
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node64pos",
+          "diff": 0.0003665707418543639
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node65pos",
+          "diff": 0.0005325550609670644
+        },
+        {
+          "neglog10qvalue": 1.0327618796751796,
+          "cutoff": null,
+          "signature": "Node66pos",
+          "diff": 0.0178910618846731
+        },
+        {
+          "neglog10qvalue": 5.5805508460444155,
+          "cutoff": null,
+          "signature": "Node67pos",
+          "diff": -0.020601626307592942
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node68pos",
+          "diff": -0.00013776968516926276
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node69pos",
+          "diff": 0.0018852926286067671
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node70pos",
+          "diff": -0.000563481272183666
+        },
+        {
+          "neglog10qvalue": 1.018928603274078,
+          "cutoff": null,
+          "signature": "Node71pos",
+          "diff": -0.004170019215491262
+        },
+        {
+          "neglog10qvalue": 0.21880365216653289,
+          "cutoff": null,
+          "signature": "Node72pos",
+          "diff": -0.0036466573619769603
+        },
+        {
+          "neglog10qvalue": 0.7528821896615665,
+          "cutoff": null,
+          "signature": "Node73pos",
+          "diff": -0.0037784553360328634
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node74pos",
+          "diff": -0.002802970147997571
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node75pos",
+          "diff": -0.0017000488682845595
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node76pos",
+          "diff": 0.00804631659211968
+        },
+        {
+          "neglog10qvalue": 0.1954496965164075,
+          "cutoff": null,
+          "signature": "Node77pos",
+          "diff": -0.002980795044137873
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node78pos",
+          "diff": -0.002236820707518085
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node79pos",
+          "diff": -0.0001777783643419248
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node80pos",
+          "diff": -0.0011146892800621977
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node81pos",
+          "diff": -0.0000961710735178825
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node82pos",
+          "diff": 0.0009796521438483646
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node83pos",
+          "diff": 0.000572238428631049
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node84pos",
+          "diff": -0.00010660990772932977
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node85pos",
+          "diff": -0.0024920105435015604
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node86pos",
+          "diff": -0.0009591314293379974
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node87pos",
+          "diff": 0.0002645002356961528
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node88pos",
+          "diff": 0.001323683415459804
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node89pos",
+          "diff": -0.0009746948893332351
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node90pos",
+          "diff": 0.002542897269583801
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node91pos",
+          "diff": -0.0016639214393138597
+        },
+        {
+          "neglog10qvalue": 0.08383905255899485,
+          "cutoff": null,
+          "signature": "Node92pos",
+          "diff": 0.002213178440079856
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node93pos",
+          "diff": -0.00043339130461906363
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node94pos",
+          "diff": -0.0009161570718001096
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node95pos",
+          "diff": 0.007417160848800544
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node96pos",
+          "diff": 0.01070060096064942
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node97pos",
+          "diff": 0.0017032106228702954
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node98pos",
+          "diff": -0.00011807154700912417
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node99pos",
+          "diff": -0.005506877901755031
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node100pos",
+          "diff": 0.0007791646898349986
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node101pos",
+          "diff": -0.0011431010449095224
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node102pos",
+          "diff": -0.0015961584603047167
+        },
+        {
+          "neglog10qvalue": 0.559358838452744,
+          "cutoff": null,
+          "signature": "Node103pos",
+          "diff": -0.0041944199588798995
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node104pos",
+          "diff": -0.0002209680208695084
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node105pos",
+          "diff": 0.00011231204637361653
+        },
+        {
+          "neglog10qvalue": 0.035442092710767856,
+          "cutoff": null,
+          "signature": "Node106pos",
+          "diff": 0.003524547172044573
+        },
+        {
+          "neglog10qvalue": 4.2395862522109535,
+          "cutoff": null,
+          "signature": "Node107pos",
+          "diff": 0.019091104141591275
+        },
+        {
+          "neglog10qvalue": 0.16409487725337835,
+          "cutoff": null,
+          "signature": "Node108pos",
+          "diff": -0.0033984477705554053
+        },
+        {
+          "neglog10qvalue": 3.722917112758203,
+          "cutoff": null,
+          "signature": "Node109pos",
+          "diff": -0.0090755045899862
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node110pos",
+          "diff": -0.00018155449728017882
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node111pos",
+          "diff": -0.0048520318908471995
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node112pos",
+          "diff": 0.003168564195670291
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node113pos",
+          "diff": -0.0037764967440109174
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node114pos",
+          "diff": -0.005701842477469982
+        },
+        {
+          "neglog10qvalue": 3.7163432681211086,
+          "cutoff": null,
+          "signature": "Node115pos",
+          "diff": -0.00961884144908753
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node116pos",
+          "diff": 0.003915437504574881
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node117pos",
+          "diff": 0.001611346638752548
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node118pos",
+          "diff": 0.0005229760341036807
+        },
+        {
+          "neglog10qvalue": 4.216672072404062,
+          "cutoff": null,
+          "signature": "Node119pos",
+          "diff": 0.015793742423331366
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node120pos",
+          "diff": 0.008529356076848859
+        },
+        {
+          "neglog10qvalue": 1.2707768796727703,
+          "cutoff": null,
+          "signature": "Node121pos",
+          "diff": 0.003589259170152897
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node122pos",
+          "diff": -0.001719113599232654
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node123pos",
+          "diff": 0.00013664162426881322
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node124pos",
+          "diff": -0.00028844601990659193
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node125pos",
+          "diff": 0.0015505872320789647
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node126pos",
+          "diff": -0.0006199132680445872
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node127pos",
+          "diff": -0.00013928674240790538
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node128pos",
+          "diff": 0.0017218066859509677
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node129pos",
+          "diff": 0.0027188056559741677
+        },
+        {
+          "neglog10qvalue": 4.45835733648446,
+          "cutoff": null,
+          "signature": "Node130pos",
+          "diff": 0.017277929071667954
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node131pos",
+          "diff": 0.0009670173686109893
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node132pos",
+          "diff": 0.0008842113240633957
+        },
+        {
+          "neglog10qvalue": 0.24929921942739985,
+          "cutoff": null,
+          "signature": "Node133pos",
+          "diff": -0.002504149602584263
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node134pos",
+          "diff": 0.010364427134025852
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node135pos",
+          "diff": 0.0014736360651393555
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node136pos",
+          "diff": -0.00002878783439631226
+        },
+        {
+          "neglog10qvalue": 3.0531583644236826,
+          "cutoff": null,
+          "signature": "Node137pos",
+          "diff": 0.0073753857396659
+        },
+        {
+          "neglog10qvalue": 0.519292471786279,
+          "cutoff": null,
+          "signature": "Node138pos",
+          "diff": 0.003884167195463768
+        },
+        {
+          "neglog10qvalue": 1.4436989912497982,
+          "cutoff": null,
+          "signature": "Node139pos",
+          "diff": 0.010210528023853029
+        },
+        {
+          "neglog10qvalue": 6.703753430972727,
+          "cutoff": null,
+          "signature": "Node140pos",
+          "diff": -0.03156895899804533
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node141pos",
+          "diff": 0.000298260903283365
+        },
+        {
+          "neglog10qvalue": 0.7837647065007464,
+          "cutoff": null,
+          "signature": "Node142pos",
+          "diff": -0.0036358402033655384
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node143pos",
+          "diff": -0.0006196980680863725
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node144pos",
+          "diff": 0.0001179423196335554
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node145pos",
+          "diff": 0.0005322213085345491
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node146pos",
+          "diff": 0.00138304411070272
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node147pos",
+          "diff": 0.0011734888736720814
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node148pos",
+          "diff": 0.0014697058781913365
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node149pos",
+          "diff": 0.0008256961234392806
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node150pos",
+          "diff": 0.0005547234441830249
+        },
+        {
+          "neglog10qvalue": 2.1180778049051976,
+          "cutoff": null,
+          "signature": "Node151pos",
+          "diff": 0.005023695136399471
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node152pos",
+          "diff": 0.0013547692196630243
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node153pos",
+          "diff": 0.0010597700495047564
+        },
+        {
+          "neglog10qvalue": 0.8459914699018187,
+          "cutoff": null,
+          "signature": "Node154pos",
+          "diff": 0.01687005062260804
+        },
+        {
+          "neglog10qvalue": 1.1532441306313912,
+          "cutoff": null,
+          "signature": "Node155pos",
+          "diff": -0.0035687806696611205
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node156pos",
+          "diff": -0.005178247552030938
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node157pos",
+          "diff": -0.0017822686594714055
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node158pos",
+          "diff": 0.0008003242814536081
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node159pos",
+          "diff": -0.0008968921988938498
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node160pos",
+          "diff": 0.0016935701167640825
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node161pos",
+          "diff": 0.0007732026476741866
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node162pos",
+          "diff": 0.000676371463428219
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node163pos",
+          "diff": -0.00048727735062481845
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node164pos",
+          "diff": 0.002103483333349328
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node165pos",
+          "diff": -0.0011767706046526608
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node166pos",
+          "diff": -0.0036530761659446494
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node167pos",
+          "diff": -0.001397861044233391
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node168pos",
+          "diff": 0.0005358316551559682
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node169pos",
+          "diff": -0.0029390762998012204
+        },
+        {
+          "neglog10qvalue": 3.0618845213178467,
+          "cutoff": null,
+          "signature": "Node170pos",
+          "diff": 0.006332314963545269
+        },
+        {
+          "neglog10qvalue": 0.42583655727145003,
+          "cutoff": null,
+          "signature": "Node171pos",
+          "diff": -0.00388607865342559
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node172pos",
+          "diff": -0.002191944514910005
+        },
+        {
+          "neglog10qvalue": 2.31344248871612,
+          "cutoff": null,
+          "signature": "Node173pos",
+          "diff": 0.009158382984720171
+        },
+        {
+          "neglog10qvalue": 0.1935580594942661,
+          "cutoff": null,
+          "signature": "Node174pos",
+          "diff": -0.0030820844463328397
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node175pos",
+          "diff": -0.00026383843530027203
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node176pos",
+          "diff": 0.0006777783384604874
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node177pos",
+          "diff": -0.0026783160744301066
+        },
+        {
+          "neglog10qvalue": 1.3022288822532493,
+          "cutoff": null,
+          "signature": "Node178pos",
+          "diff": 0.007289388578592675
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node179pos",
+          "diff": 0.0016807948114691534
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node180pos",
+          "diff": -0.00035185310215617366
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node181pos",
+          "diff": 0.0011049666761587882
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node182pos",
+          "diff": 0.0012329881297196473
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node183pos",
+          "diff": 0.001381647308637962
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node184pos",
+          "diff": 0.0001557723330164584
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node185pos",
+          "diff": -0.0010857388138144468
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node186pos",
+          "diff": -0.0038938817097526023
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node187pos",
+          "diff": 0.005816325560071666
+        },
+        {
+          "neglog10qvalue": 0.6214875388486989,
+          "cutoff": null,
+          "signature": "Node188pos",
+          "diff": 0.002641408469686197
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node189pos",
+          "diff": 0.004034840814190699
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node190pos",
+          "diff": 0.0003808969385467668
+        },
+        {
+          "neglog10qvalue": 4.128518171353482,
+          "cutoff": null,
+          "signature": "Node191pos",
+          "diff": 0.01562628150319295
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node192pos",
+          "diff": -0.00033726962183991833
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node193pos",
+          "diff": 0.005639604955352021
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node194pos",
+          "diff": 0.0007333842029103176
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node195pos",
+          "diff": 0.00021872399348564568
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node196pos",
+          "diff": 0.00008508501403928069
+        },
+        {
+          "neglog10qvalue": 0.9670727043515884,
+          "cutoff": null,
+          "signature": "Node197pos",
+          "diff": -0.004805429856194322
+        },
+        {
+          "neglog10qvalue": 2.453865395461053,
+          "cutoff": null,
+          "signature": "Node198pos",
+          "diff": 0.008218489587776745
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node199pos",
+          "diff": 0.0015215359908084868
+        },
+        {
+          "neglog10qvalue": 0.692422723429957,
+          "cutoff": null,
+          "signature": "Node200pos",
+          "diff": 0.004779539465199882
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node201pos",
+          "diff": 0.0009897431197105184
+        },
+        {
+          "neglog10qvalue": 0.1908650693878352,
+          "cutoff": null,
+          "signature": "Node202pos",
+          "diff": 0.003128756835952549
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node203pos",
+          "diff": -0.002241244477638916
+        },
+        {
+          "neglog10qvalue": 2.4825944969155325,
+          "cutoff": null,
+          "signature": "Node204pos",
+          "diff": 0.005545455586189702
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node205pos",
+          "diff": -0.0003836872448212256
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node206pos",
+          "diff": -0.0019482633137297657
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node207pos",
+          "diff": 0.0015874302776260345
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node208pos",
+          "diff": -0.0024876835524555193
+        },
+        {
+          "neglog10qvalue": 2.6019422566988686,
+          "cutoff": null,
+          "signature": "Node209pos",
+          "diff": 0.005787658261379871
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node210pos",
+          "diff": 0.002543151995676355
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node211pos",
+          "diff": -0.002075941560557754
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node212pos",
+          "diff": -0.00006748744214822356
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node213pos",
+          "diff": -0.0014998249891093128
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node214pos",
+          "diff": -0.0009451204421840092
+        },
+        {
+          "neglog10qvalue": 3.3032105026303302,
+          "cutoff": null,
+          "signature": "Node215pos",
+          "diff": -0.0072419841850951735
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node216pos",
+          "diff": 0.001714872837867843
+        },
+        {
+          "neglog10qvalue": 1.3322268312655914,
+          "cutoff": null,
+          "signature": "Node217pos",
+          "diff": -0.005987304617025986
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node218pos",
+          "diff": -0.0019217188234877949
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node219pos",
+          "diff": 0.00013619405189959976
+        },
+        {
+          "neglog10qvalue": 0.5036193328077437,
+          "cutoff": null,
+          "signature": "Node220pos",
+          "diff": 0.006014835350389111
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node221pos",
+          "diff": 0.0001552376995659929
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node222pos",
+          "diff": 0.0020916416355280525
+        },
+        {
+          "neglog10qvalue": 1.8453543729144437,
+          "cutoff": null,
+          "signature": "Node223pos",
+          "diff": 0.0055552227138175115
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node224pos",
+          "diff": -0.00009303811725595401
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node225pos",
+          "diff": -0.0005784614311097888
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node226pos",
+          "diff": 0.00945442909575607
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node227pos",
+          "diff": -0.0001875658061534085
+        },
+        {
+          "neglog10qvalue": 4.576626773043903,
+          "cutoff": null,
+          "signature": "Node228pos",
+          "diff": -0.011086684172773309
+        },
+        {
+          "neglog10qvalue": 0.26384476304563925,
+          "cutoff": null,
+          "signature": "Node229pos",
+          "diff": 0.006840512456218843
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node230pos",
+          "diff": 0.0019984909373020696
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node231pos",
+          "diff": 0.00301157353125178
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node232pos",
+          "diff": 0.001175200152471436
+        },
+        {
+          "neglog10qvalue": 6.506756934383988,
+          "cutoff": null,
+          "signature": "Node233pos",
+          "diff": -0.03574346727491773
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node234pos",
+          "diff": 0.0005052126593149361
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node235pos",
+          "diff": 0.00007448454490754857
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node236pos",
+          "diff": 0.004053875686511221
+        },
+        {
+          "neglog10qvalue": 0.39685166781278974,
+          "cutoff": null,
+          "signature": "Node237pos",
+          "diff": 0.0029753845752316338
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node238pos",
+          "diff": 9.75412510211241e-7
+        },
+        {
+          "neglog10qvalue": 1.264270538324892,
+          "cutoff": null,
+          "signature": "Node239pos",
+          "diff": -0.003625285701504012
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node240pos",
+          "diff": 0.002528172150878376
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node241pos",
+          "diff": 0.0012867115508459455
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node242pos",
+          "diff": 0.006956689030643994
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node243pos",
+          "diff": 0.0017556986286703412
+        },
+        {
+          "neglog10qvalue": 0.5724944495602816,
+          "cutoff": null,
+          "signature": "Node244pos",
+          "diff": 0.003290101295712941
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node245pos",
+          "diff": 0.00019549625728667496
+        },
+        {
+          "neglog10qvalue": 2.163816085070501,
+          "cutoff": null,
+          "signature": "Node246pos",
+          "diff": 0.009554166200321878
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node247pos",
+          "diff": 0.0011883484120047663
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node248pos",
+          "diff": -0.001066709871860392
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node249pos",
+          "diff": 0.001308273937097343
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node250pos",
+          "diff": -0.0007780010589901715
+        },
+        {
+          "neglog10qvalue": 2.107798719119684,
+          "cutoff": null,
+          "signature": "Node251pos",
+          "diff": 0.004358345405717705
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node252pos",
+          "diff": 0.001008177717301859
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node253pos",
+          "diff": 0.0034995872430192056
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node254pos",
+          "diff": 0.00008910027853725284
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node255pos",
+          "diff": 0.0015867576770467364
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node256pos",
+          "diff": 0.002350269201931337
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node257pos",
+          "diff": 0.004599892249681308
+        },
+        {
+          "neglog10qvalue": 0.3379804201289846,
+          "cutoff": null,
+          "signature": "Node258pos",
+          "diff": 0.00299101201972555
+        },
+        {
+          "neglog10qvalue": 1.8067589082041164,
+          "cutoff": null,
+          "signature": "Node259pos",
+          "diff": 0.004125933633121614
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node260pos",
+          "diff": -0.00005549338618089799
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node261pos",
+          "diff": -0.0004620342316439166
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node262pos",
+          "diff": 0.0015172070996766177
+        },
+        {
+          "neglog10qvalue": 0.3507718394713413,
+          "cutoff": null,
+          "signature": "Node263pos",
+          "diff": 0.0022193351672975987
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node264pos",
+          "diff": -0.0021636398952788677
+        },
+        {
+          "neglog10qvalue": 0.5546493761650088,
+          "cutoff": null,
+          "signature": "Node265pos",
+          "diff": -0.002275932402808329
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node266pos",
+          "diff": 0.0010003754809280669
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node267pos",
+          "diff": 0.001650213686116204
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node268pos",
+          "diff": 0.0015343922258798937
+        },
+        {
+          "neglog10qvalue": 4.319970426746455,
+          "cutoff": null,
+          "signature": "Node269pos",
+          "diff": 0.02071884498871691
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node270pos",
+          "diff": 0.0004990095106751298
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node271pos",
+          "diff": -0.0018955615282113085
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node272pos",
+          "diff": 0.0015977173754542144
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node273pos",
+          "diff": -0.00005778640960620313
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node274pos",
+          "diff": -0.0015203428338787664
+        },
+        {
+          "neglog10qvalue": 5.2150300683301385,
+          "cutoff": null,
+          "signature": "Node275pos",
+          "diff": -0.014193362644542419
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node276pos",
+          "diff": 0.0030141983454977264
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node277pos",
+          "diff": -0.002015977221032327
+        },
+        {
+          "neglog10qvalue": 4.4527339803921535,
+          "cutoff": null,
+          "signature": "Node278pos",
+          "diff": -0.009394433045373976
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node279pos",
+          "diff": 0.0010497998241628882
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node280pos",
+          "diff": 0.0018962383190834183
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node281pos",
+          "diff": 0.0010168628088725099
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node282pos",
+          "diff": 0.0017571220994780712
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node283pos",
+          "diff": -0.0011729249805343255
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node284pos",
+          "diff": 0.00004699751512109043
+        },
+        {
+          "neglog10qvalue": 0.8782936770041436,
+          "cutoff": null,
+          "signature": "Node285pos",
+          "diff": 0.003063454145971709
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node286pos",
+          "diff": -0.00043216469747158257
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node287pos",
+          "diff": -0.000553944310264785
+        },
+        {
+          "neglog10qvalue": 0.04982919641756926,
+          "cutoff": null,
+          "signature": "Node288pos",
+          "diff": 0.006096242883260669
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node289pos",
+          "diff": 0.0017002585359181485
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node290pos",
+          "diff": -0.002543540201753769
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node291pos",
+          "diff": -0.0012354399924195596
+        },
+        {
+          "neglog10qvalue": 2.4035317545331063,
+          "cutoff": null,
+          "signature": "Node292pos",
+          "diff": 0.004453206281306361
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node293pos",
+          "diff": 0.0009787702720732666
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node294pos",
+          "diff": 0.0032678755841139373
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node295pos",
+          "diff": 0.003323195331136284
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node296pos",
+          "diff": -0.00010790235916964681
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node297pos",
+          "diff": 0.0009987745738208296
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node298pos",
+          "diff": 0.002042700636983544
+        },
+        {
+          "neglog10qvalue": 4.678405423553562,
+          "cutoff": null,
+          "signature": "Node299pos",
+          "diff": 0.014978826306215831
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node300pos",
+          "diff": 0.0005119533491305659
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node1neg",
+          "diff": 0.0038263619925228633
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node2neg",
+          "diff": -0.0011278262246219221
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node3neg",
+          "diff": -0.0027323458847498512
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node4neg",
+          "diff": -0.0004637128751133598
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node5neg",
+          "diff": 0.005385512318754008
+        },
+        {
+          "neglog10qvalue": 3.2063651771440007,
+          "cutoff": null,
+          "signature": "Node6neg",
+          "diff": -0.010472357872313395
+        },
+        {
+          "neglog10qvalue": 1.1436459001934005,
+          "cutoff": null,
+          "signature": "Node7neg",
+          "diff": -0.003909823214062342
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node8neg",
+          "diff": 0.000578031396160411
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node9neg",
+          "diff": 0.002150691001032737
+        },
+        {
+          "neglog10qvalue": 1.240511314007933,
+          "cutoff": null,
+          "signature": "Node10neg",
+          "diff": -0.0067807798884336025
+        },
+        {
+          "neglog10qvalue": 1.0236471605076152,
+          "cutoff": null,
+          "signature": "Node11neg",
+          "diff": 0.00430867992414435
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node12neg",
+          "diff": 0.0016762462150350195
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node13neg",
+          "diff": 0.009864611780160164
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node14neg",
+          "diff": 0.0014318091506578324
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node15neg",
+          "diff": 0.0005071279350389687
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node16neg",
+          "diff": -0.00008230145573464888
+        },
+        {
+          "neglog10qvalue": 2.0547363301719725,
+          "cutoff": null,
+          "signature": "Node17neg",
+          "diff": -0.004102216466860636
+        },
+        {
+          "neglog10qvalue": 0.2957194715235665,
+          "cutoff": null,
+          "signature": "Node18neg",
+          "diff": 0.00399934039703964
+        },
+        {
+          "neglog10qvalue": 1.6878227421292311,
+          "cutoff": null,
+          "signature": "Node19neg",
+          "diff": -0.0052958209301863825
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node20neg",
+          "diff": 0.005790561773331678
+        },
+        {
+          "neglog10qvalue": 0.24277539908976106,
+          "cutoff": null,
+          "signature": "Node21neg",
+          "diff": 0.0030149081902667977
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node22neg",
+          "diff": -0.0006886965188039332
+        },
+        {
+          "neglog10qvalue": 0.5994787445946471,
+          "cutoff": null,
+          "signature": "Node23neg",
+          "diff": -0.007006272344973876
+        },
+        {
+          "neglog10qvalue": 0.7320633825874733,
+          "cutoff": null,
+          "signature": "Node24neg",
+          "diff": 0.003838355339379053
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node25neg",
+          "diff": 0.002381531487238481
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node26neg",
+          "diff": 0.0038886341800847173
+        },
+        {
+          "neglog10qvalue": 3.468640252842041,
+          "cutoff": null,
+          "signature": "Node27neg",
+          "diff": 0.01748348172844504
+        },
+        {
+          "neglog10qvalue": 4.016638582383831,
+          "cutoff": null,
+          "signature": "Node28neg",
+          "diff": 0.010249817034470487
+        },
+        {
+          "neglog10qvalue": 0.3138576302483901,
+          "cutoff": null,
+          "signature": "Node29neg",
+          "diff": 0.004450077990347633
+        },
+        {
+          "neglog10qvalue": 0.5099878941379259,
+          "cutoff": null,
+          "signature": "Node30neg",
+          "diff": 0.003012924439860541
+        },
+        {
+          "neglog10qvalue": 4.513467772242227,
+          "cutoff": null,
+          "signature": "Node31neg",
+          "diff": -0.010724655205722034
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node32neg",
+          "diff": -0.0012350106027854554
+        },
+        {
+          "neglog10qvalue": 4.323957109825853,
+          "cutoff": null,
+          "signature": "Node33neg",
+          "diff": 0.016585802165571026
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node34neg",
+          "diff": -0.005422945401877321
+        },
+        {
+          "neglog10qvalue": 1.9731625030066084,
+          "cutoff": null,
+          "signature": "Node35neg",
+          "diff": 0.004159931539348532
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node36neg",
+          "diff": -0.0014208250781611506
+        },
+        {
+          "neglog10qvalue": 0.2413355810246201,
+          "cutoff": null,
+          "signature": "Node37neg",
+          "diff": 0.0045189768348294895
+        },
+        {
+          "neglog10qvalue": 4.77495615734289,
+          "cutoff": null,
+          "signature": "Node38neg",
+          "diff": 0.02002276701900197
+        },
+        {
+          "neglog10qvalue": 3.936763313286692,
+          "cutoff": null,
+          "signature": "Node39neg",
+          "diff": -0.01191839956139877
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node40neg",
+          "diff": -0.00015004561953447894
+        },
+        {
+          "neglog10qvalue": 0.7255030168343406,
+          "cutoff": null,
+          "signature": "Node41neg",
+          "diff": 0.007513083733562483
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node42neg",
+          "diff": -0.0016386457001580485
+        },
+        {
+          "neglog10qvalue": 0.6797763009447664,
+          "cutoff": null,
+          "signature": "Node43neg",
+          "diff": 0.00394195574040071
+        },
+        {
+          "neglog10qvalue": 0.9186483801875329,
+          "cutoff": null,
+          "signature": "Node44neg",
+          "diff": 0.005447133407934629
+        },
+        {
+          "neglog10qvalue": 0.79884593091182,
+          "cutoff": null,
+          "signature": "Node45neg",
+          "diff": -0.003159074940899371
+        },
+        {
+          "neglog10qvalue": 1.6388402883719015,
+          "cutoff": null,
+          "signature": "Node46neg",
+          "diff": 0.004648513835086654
+        },
+        {
+          "neglog10qvalue": 1.2938759785168357,
+          "cutoff": null,
+          "signature": "Node47neg",
+          "diff": -0.005956249109815001
+        },
+        {
+          "neglog10qvalue": 0.2500787445651363,
+          "cutoff": null,
+          "signature": "Node48neg",
+          "diff": -0.0024837278526767858
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node49neg",
+          "diff": -0.00232991736559156
+        },
+        {
+          "neglog10qvalue": 0.7775377470180435,
+          "cutoff": null,
+          "signature": "Node50neg",
+          "diff": 0.01187795243196951
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node51neg",
+          "diff": -0.001228054744937047
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node52neg",
+          "diff": -0.0019798582024837773
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node53neg",
+          "diff": -0.001046764417341974
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node54neg",
+          "diff": 0.0012791134622107262
+        },
+        {
+          "neglog10qvalue": 0.076220061536842,
+          "cutoff": null,
+          "signature": "Node55neg",
+          "diff": 0.0028276922216154163
+        },
+        {
+          "neglog10qvalue": 0.8780490335299723,
+          "cutoff": null,
+          "signature": "Node56neg",
+          "diff": -0.004708708298685858
+        },
+        {
+          "neglog10qvalue": 1.1099826643117956,
+          "cutoff": null,
+          "signature": "Node57neg",
+          "diff": 0.013947187638606737
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node58neg",
+          "diff": 0.005092413351648686
+        },
+        {
+          "neglog10qvalue": 0.5536404867465603,
+          "cutoff": null,
+          "signature": "Node59neg",
+          "diff": 0.003794956462061162
+        },
+        {
+          "neglog10qvalue": 1.1089664724517014,
+          "cutoff": null,
+          "signature": "Node60neg",
+          "diff": 0.013878310940789715
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node61neg",
+          "diff": 0.002860539290564179
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node62neg",
+          "diff": 0.0020812983258944933
+        },
+        {
+          "neglog10qvalue": 3.998175018498944,
+          "cutoff": null,
+          "signature": "Node63neg",
+          "diff": -0.008040483068931502
+        },
+        {
+          "neglog10qvalue": 0.266310360022349,
+          "cutoff": null,
+          "signature": "Node64neg",
+          "diff": -0.002690110627526824
+        },
+        {
+          "neglog10qvalue": 0.3944470128743718,
+          "cutoff": null,
+          "signature": "Node65neg",
+          "diff": 0.005380967013534272
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node66neg",
+          "diff": 0.002021280497854688
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node67neg",
+          "diff": 0.004482391708489125
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node68neg",
+          "diff": -0.002287834026221159
+        },
+        {
+          "neglog10qvalue": 0.20601501802002548,
+          "cutoff": null,
+          "signature": "Node69neg",
+          "diff": 0.0028716873658222388
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node70neg",
+          "diff": -0.00033377848034921864
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node71neg",
+          "diff": 0.001472310276000175
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node72neg",
+          "diff": -0.0003650340820118065
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node73neg",
+          "diff": -0.00019820118395792643
+        },
+        {
+          "neglog10qvalue": 1.4366479964444645,
+          "cutoff": null,
+          "signature": "Node74neg",
+          "diff": 0.004374118310981511
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node75neg",
+          "diff": 0.007238937339854969
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node76neg",
+          "diff": 0.0018546887631871718
+        },
+        {
+          "neglog10qvalue": 0.643861011520432,
+          "cutoff": null,
+          "signature": "Node77neg",
+          "diff": 0.009326871303441129
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node78neg",
+          "diff": 0.0011038674431639662
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node79neg",
+          "diff": 0.0017448381868299626
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node80neg",
+          "diff": 0.0006522769230807074
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node81neg",
+          "diff": -0.0014515320129493427
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node82neg",
+          "diff": 0.00003517879214695597
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node83neg",
+          "diff": 0.001511081872477018
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node84neg",
+          "diff": -0.00028823578445984715
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node85neg",
+          "diff": -0.001616037032297006
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node86neg",
+          "diff": 0.006689050723313976
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node87neg",
+          "diff": 0.0013948169925853515
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node88neg",
+          "diff": -0.0016817314902355081
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node89neg",
+          "diff": 0.0012611107453210618
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node90neg",
+          "diff": -0.0032230085076675567
+        },
+        {
+          "neglog10qvalue": 1.2588668410984616,
+          "cutoff": null,
+          "signature": "Node91neg",
+          "diff": 0.007615721606579906
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node92neg",
+          "diff": -0.0007709982485693746
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node93neg",
+          "diff": 0.00377923716518552
+        },
+        {
+          "neglog10qvalue": 2.06194008245251,
+          "cutoff": null,
+          "signature": "Node94neg",
+          "diff": 0.008358597373253455
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node95neg",
+          "diff": 0.00010488863551280368
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node96neg",
+          "diff": 0.0009344971316635932
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node97neg",
+          "diff": -0.0024837977539385373
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node98neg",
+          "diff": 0.0012083845056526667
+        },
+        {
+          "neglog10qvalue": 0.8912212724886261,
+          "cutoff": null,
+          "signature": "Node99neg",
+          "diff": 0.008443982081749452
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node100neg",
+          "diff": 0.00435887002442424
+        },
+        {
+          "neglog10qvalue": 2.398417087230141,
+          "cutoff": null,
+          "signature": "Node101neg",
+          "diff": 0.007217476281582828
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node102neg",
+          "diff": 0.002512009644644993
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node103neg",
+          "diff": -0.002767268348310014
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node104neg",
+          "diff": 0.0010117257687662108
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node105neg",
+          "diff": 0.004403270809293982
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node106neg",
+          "diff": 0.0000986008301472181
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node107neg",
+          "diff": -0.004636915799868659
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node108neg",
+          "diff": 0.000550503702054671
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node109neg",
+          "diff": 0.004419995180949112
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node110neg",
+          "diff": -0.003058481119997884
+        },
+        {
+          "neglog10qvalue": 1.9189254011336252,
+          "cutoff": null,
+          "signature": "Node111neg",
+          "diff": 0.007004098930499701
+        },
+        {
+          "neglog10qvalue": 1.2980299016787966,
+          "cutoff": null,
+          "signature": "Node112neg",
+          "diff": -0.006259136120809639
+        },
+        {
+          "neglog10qvalue": 2.7305498589583124,
+          "cutoff": null,
+          "signature": "Node113neg",
+          "diff": 0.0076520149250389625
+        },
+        {
+          "neglog10qvalue": 1.6777032084226018,
+          "cutoff": null,
+          "signature": "Node114neg",
+          "diff": 0.0073683266520573765
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node115neg",
+          "diff": -0.000467157521420045
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node116neg",
+          "diff": -0.0006823849733477625
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node117neg",
+          "diff": -0.0025852876204004553
+        },
+        {
+          "neglog10qvalue": 0.36980834697794535,
+          "cutoff": null,
+          "signature": "Node118neg",
+          "diff": -0.0028366713765449
+        },
+        {
+          "neglog10qvalue": 2.049384640879917,
+          "cutoff": null,
+          "signature": "Node119neg",
+          "diff": -0.0047261426253359645
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node120neg",
+          "diff": -0.0015148805225539954
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node121neg",
+          "diff": 0.008967275112971004
+        },
+        {
+          "neglog10qvalue": 2.2637400380996757,
+          "cutoff": null,
+          "signature": "Node122neg",
+          "diff": 0.007985951170077452
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node123neg",
+          "diff": -0.000614993434481854
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node124neg",
+          "diff": -0.0008996896820822907
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node125neg",
+          "diff": -0.002343112265567173
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node126neg",
+          "diff": 0.0018866957851981048
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node127neg",
+          "diff": 0.005722428815497883
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node128neg",
+          "diff": 0.002513066025328914
+        },
+        {
+          "neglog10qvalue": 0.8958867873986821,
+          "cutoff": null,
+          "signature": "Node129neg",
+          "diff": -0.0033313988825381035
+        },
+        {
+          "neglog10qvalue": 1.5208276693275462,
+          "cutoff": null,
+          "signature": "Node130neg",
+          "diff": -0.006100816977169651
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node131neg",
+          "diff": -0.0016927008620814918
+        },
+        {
+          "neglog10qvalue": 1.5006050640061548,
+          "cutoff": null,
+          "signature": "Node132neg",
+          "diff": -0.005940121719867012
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node133neg",
+          "diff": 0.0014920077857028561
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node134neg",
+          "diff": 0.0002410127297773038
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node135neg",
+          "diff": 0.0017266583437391858
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node136neg",
+          "diff": 0.00039350366851764284
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node137neg",
+          "diff": -0.002823982106882916
+        },
+        {
+          "neglog10qvalue": 0.8815771842909741,
+          "cutoff": null,
+          "signature": "Node138neg",
+          "diff": 0.003991653709771261
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node139neg",
+          "diff": 0.00287737364776921
+        },
+        {
+          "neglog10qvalue": 0.09900071080933356,
+          "cutoff": null,
+          "signature": "Node140neg",
+          "diff": 0.0034365815308092513
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node141neg",
+          "diff": -0.0009008967921326767
+        },
+        {
+          "neglog10qvalue": 2.081719417725155,
+          "cutoff": null,
+          "signature": "Node142neg",
+          "diff": -0.004474692718305279
+        },
+        {
+          "neglog10qvalue": 1.4926002050937888,
+          "cutoff": null,
+          "signature": "Node143neg",
+          "diff": 0.006041631766669951
+        },
+        {
+          "neglog10qvalue": 0.5110315594984044,
+          "cutoff": null,
+          "signature": "Node144neg",
+          "diff": 0.005203001867359734
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node145neg",
+          "diff": -0.00014486245824679638
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node146neg",
+          "diff": 0.003278123043791696
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node147neg",
+          "diff": 0.0020527942330123266
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node148neg",
+          "diff": 0.0010777129654092354
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node149neg",
+          "diff": -0.004683730436973316
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node150neg",
+          "diff": 0.0010908063316549905
+        },
+        {
+          "neglog10qvalue": 0.6519771502899706,
+          "cutoff": null,
+          "signature": "Node151neg",
+          "diff": -0.00598984372938998
+        },
+        {
+          "neglog10qvalue": 0.671442209983172,
+          "cutoff": null,
+          "signature": "Node152neg",
+          "diff": -0.003946987888395363
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node153neg",
+          "diff": -0.0008669008352725871
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node154neg",
+          "diff": 0.00017286350180062727
+        },
+        {
+          "neglog10qvalue": 0.20614503231129586,
+          "cutoff": null,
+          "signature": "Node155neg",
+          "diff": 0.01506104529191096
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node156neg",
+          "diff": 0.0022927757806937804
+        },
+        {
+          "neglog10qvalue": 1.024309066527033,
+          "cutoff": null,
+          "signature": "Node157neg",
+          "diff": 0.0038666210441504548
+        },
+        {
+          "neglog10qvalue": 6.593712126465593,
+          "cutoff": null,
+          "signature": "Node158neg",
+          "diff": -0.02641393453238771
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node159neg",
+          "diff": -0.001922213205128491
+        },
+        {
+          "neglog10qvalue": 0.6276249789783671,
+          "cutoff": null,
+          "signature": "Node160neg",
+          "diff": -0.003878318464043681
+        },
+        {
+          "neglog10qvalue": 2.7177905203281134,
+          "cutoff": null,
+          "signature": "Node161neg",
+          "diff": 0.006048908545950175
+        },
+        {
+          "neglog10qvalue": 0.8107614685873448,
+          "cutoff": null,
+          "signature": "Node162neg",
+          "diff": -0.005658522450303757
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node163neg",
+          "diff": -0.0018679375388489085
+        },
+        {
+          "neglog10qvalue": 1.8395526507502833,
+          "cutoff": null,
+          "signature": "Node164neg",
+          "diff": -0.0061268736193677955
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node165neg",
+          "diff": 0.0002265001486183799
+        },
+        {
+          "neglog10qvalue": 2.1910309712494764,
+          "cutoff": null,
+          "signature": "Node166neg",
+          "diff": 0.00613173920384421
+        },
+        {
+          "neglog10qvalue": 0.2861079000213718,
+          "cutoff": null,
+          "signature": "Node167neg",
+          "diff": 0.005350324729609697
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node168neg",
+          "diff": -0.0013318285653144725
+        },
+        {
+          "neglog10qvalue": 1.5791823596584864,
+          "cutoff": null,
+          "signature": "Node169neg",
+          "diff": 0.005395882849424396
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node170neg",
+          "diff": 0.0006494996565746109
+        },
+        {
+          "neglog10qvalue": 0.6735533753415224,
+          "cutoff": null,
+          "signature": "Node171neg",
+          "diff": 0.0025746786762608853
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node172neg",
+          "diff": 0.00004835749161455808
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node173neg",
+          "diff": 0.00013060022815765754
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node174neg",
+          "diff": 0.0011223779564005015
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node175neg",
+          "diff": 0.004252082748816532
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node176neg",
+          "diff": 0.0010347613747963065
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node177neg",
+          "diff": 0.0011197394322795583
+        },
+        {
+          "neglog10qvalue": 2.347396097620429,
+          "cutoff": null,
+          "signature": "Node178neg",
+          "diff": -0.00475665424328179
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node179neg",
+          "diff": 0.00031629585104121723
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node180neg",
+          "diff": 0.00041656963576943757
+        },
+        {
+          "neglog10qvalue": 0.8101934217410305,
+          "cutoff": null,
+          "signature": "Node181neg",
+          "diff": -0.005342576586949492
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node182neg",
+          "diff": 0.0013702142495236405
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node183neg",
+          "diff": 0.0008449533822760256
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node184neg",
+          "diff": -0.0004311261828344263
+        },
+        {
+          "neglog10qvalue": 5.362710657556212,
+          "cutoff": null,
+          "signature": "Node185neg",
+          "diff": -0.014166327958265678
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node186neg",
+          "diff": 0.0011360409708601668
+        },
+        {
+          "neglog10qvalue": 2.0386174925914617,
+          "cutoff": null,
+          "signature": "Node187neg",
+          "diff": -0.006403291504508496
+        },
+        {
+          "neglog10qvalue": 0.8377225375221264,
+          "cutoff": null,
+          "signature": "Node188neg",
+          "diff": -0.002842821030328237
+        },
+        {
+          "neglog10qvalue": 2.702186679735569,
+          "cutoff": null,
+          "signature": "Node189neg",
+          "diff": 0.006720997550785986
+        },
+        {
+          "neglog10qvalue": 2.598910458210096,
+          "cutoff": null,
+          "signature": "Node190neg",
+          "diff": -0.005159242983093542
+        },
+        {
+          "neglog10qvalue": 1.2435535278411478,
+          "cutoff": null,
+          "signature": "Node191neg",
+          "diff": -0.0039488949756062925
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node192neg",
+          "diff": 0.0015501691988461035
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node193neg",
+          "diff": 0.0013475180536391088
+        },
+        {
+          "neglog10qvalue": 1.562049062385751,
+          "cutoff": null,
+          "signature": "Node194neg",
+          "diff": 0.00479397633662625
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node195neg",
+          "diff": 0.0015052404810160936
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node196neg",
+          "diff": -0.001203606348374242
+        },
+        {
+          "neglog10qvalue": 3.0684011701505227,
+          "cutoff": null,
+          "signature": "Node197neg",
+          "diff": 0.007584947990235864
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node198neg",
+          "diff": -0.0047634636618069355
+        },
+        {
+          "neglog10qvalue": 1.4250346472790971,
+          "cutoff": null,
+          "signature": "Node199neg",
+          "diff": 0.003480073957966949
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node200neg",
+          "diff": 0.0006866857018388229
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node201neg",
+          "diff": -0.0039735621487213
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node202neg",
+          "diff": 0.0018115627759996648
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node203neg",
+          "diff": -0.0010134127277960014
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node204neg",
+          "diff": 0.005084302378357558
+        },
+        {
+          "neglog10qvalue": 1.5472150226718626,
+          "cutoff": null,
+          "signature": "Node205neg",
+          "diff": 0.026608779260430957
+        },
+        {
+          "neglog10qvalue": 2.8107776994822906,
+          "cutoff": null,
+          "signature": "Node206neg",
+          "diff": 0.006102017324922037
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node207neg",
+          "diff": -0.0002505643815146774
+        },
+        {
+          "neglog10qvalue": 0.26518965473762296,
+          "cutoff": null,
+          "signature": "Node208neg",
+          "diff": 0.002704976668495812
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node209neg",
+          "diff": -0.0001887498174018609
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node210neg",
+          "diff": 0.0015386886329801187
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node211neg",
+          "diff": 0.0010566044817490014
+        },
+        {
+          "neglog10qvalue": 2.487804557626565,
+          "cutoff": null,
+          "signature": "Node212neg",
+          "diff": 0.005559337168254313
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node213neg",
+          "diff": 0.0030934443026779802
+        },
+        {
+          "neglog10qvalue": 4.560307073749748,
+          "cutoff": null,
+          "signature": "Node214neg",
+          "diff": 0.01272747498681553
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node215neg",
+          "diff": 0.0016618706768521715
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node216neg",
+          "diff": -0.00040331785237293774
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node217neg",
+          "diff": 0.001474306529500291
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node218neg",
+          "diff": -0.002528828548990068
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node219neg",
+          "diff": -0.001730370037660333
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node220neg",
+          "diff": -0.001240753060640535
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node221neg",
+          "diff": 0.0011673104656793596
+        },
+        {
+          "neglog10qvalue": 0.8301855189792596,
+          "cutoff": null,
+          "signature": "Node222neg",
+          "diff": 0.0035028665473446604
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node223neg",
+          "diff": -0.0005492691178551704
+        },
+        {
+          "neglog10qvalue": 3.2016845622023844,
+          "cutoff": null,
+          "signature": "Node224neg",
+          "diff": 0.009870121800112165
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node225neg",
+          "diff": 0.0006796061885331097
+        },
+        {
+          "neglog10qvalue": 1.0621910938902621,
+          "cutoff": null,
+          "signature": "Node226neg",
+          "diff": 0.0031507427741966905
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node227neg",
+          "diff": 0.0016170549151360966
+        },
+        {
+          "neglog10qvalue": 1.963925924529676,
+          "cutoff": null,
+          "signature": "Node228neg",
+          "diff": 0.004718251734831059
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node229neg",
+          "diff": 0.0009858100780944586
+        },
+        {
+          "neglog10qvalue": 0.4883360877366521,
+          "cutoff": null,
+          "signature": "Node230neg",
+          "diff": 0.0033271923387045163
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node231neg",
+          "diff": 0.0004089851176924213
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node232neg",
+          "diff": -0.0006855907009128494
+        },
+        {
+          "neglog10qvalue": 1.80025730373519,
+          "cutoff": null,
+          "signature": "Node233neg",
+          "diff": 0.007020895585012891
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node234neg",
+          "diff": -0.000167148792324226
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node235neg",
+          "diff": -0.0026512052966292444
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node236neg",
+          "diff": 0.0005238143749827221
+        },
+        {
+          "neglog10qvalue": 1.294517972706232,
+          "cutoff": null,
+          "signature": "Node237neg",
+          "diff": -0.006996117889907782
+        },
+        {
+          "neglog10qvalue": 1.2942068414975911,
+          "cutoff": null,
+          "signature": "Node238neg",
+          "diff": -0.003900970278179034
+        },
+        {
+          "neglog10qvalue": 0.13152741665442125,
+          "cutoff": null,
+          "signature": "Node239neg",
+          "diff": -0.002331686830092909
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node240neg",
+          "diff": -0.0016406540715512134
+        },
+        {
+          "neglog10qvalue": 0.15663663348354304,
+          "cutoff": null,
+          "signature": "Node241neg",
+          "diff": 0.002755056854895353
+        },
+        {
+          "neglog10qvalue": 0.4825738684696023,
+          "cutoff": null,
+          "signature": "Node242neg",
+          "diff": 0.004172025079414214
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node243neg",
+          "diff": 0.0042552514727811856
+        },
+        {
+          "neglog10qvalue": 0.8485262636347777,
+          "cutoff": null,
+          "signature": "Node244neg",
+          "diff": 0.004132068504482811
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node245neg",
+          "diff": -0.0018466444907677103
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node246neg",
+          "diff": -0.0013733709584304527
+        },
+        {
+          "neglog10qvalue": 0.5689694928812978,
+          "cutoff": null,
+          "signature": "Node247neg",
+          "diff": -0.003700468688779878
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node248neg",
+          "diff": -0.0003882454554308542
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node249neg",
+          "diff": -0.00043717579613047127
+        },
+        {
+          "neglog10qvalue": 4.001698538193256,
+          "cutoff": null,
+          "signature": "Node250neg",
+          "diff": 0.013313067995723248
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node251neg",
+          "diff": 0.0012860444348805375
+        },
+        {
+          "neglog10qvalue": 2.798827293705917,
+          "cutoff": null,
+          "signature": "Node252neg",
+          "diff": 0.007686296290079639
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node253neg",
+          "diff": -0.0016306757544756185
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node254neg",
+          "diff": 0.0014592221447335806
+        },
+        {
+          "neglog10qvalue": 1.7683170933337853,
+          "cutoff": null,
+          "signature": "Node255neg",
+          "diff": 0.004181066278966423
+        },
+        {
+          "neglog10qvalue": 1.305671716064918,
+          "cutoff": null,
+          "signature": "Node256neg",
+          "diff": 0.0039197975337638075
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node257neg",
+          "diff": -0.0005316436193521713
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node258neg",
+          "diff": -0.0001901176993763404
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node259neg",
+          "diff": -0.0016039369554879045
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node260neg",
+          "diff": 0.004796860325914393
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node261neg",
+          "diff": 0.005565602083037472
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node262neg",
+          "diff": -0.000993544851699107
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node263neg",
+          "diff": -0.0003605701962326834
+        },
+        {
+          "neglog10qvalue": 1.2020750061207663,
+          "cutoff": null,
+          "signature": "Node264neg",
+          "diff": 0.004913829505252142
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node265neg",
+          "diff": -0.0017756811292183687
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node266neg",
+          "diff": 0.0012167904301523592
+        },
+        {
+          "neglog10qvalue": 2.7159112575732083,
+          "cutoff": null,
+          "signature": "Node267neg",
+          "diff": -0.007152678829564117
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node268neg",
+          "diff": -0.0011210996538463314
+        },
+        {
+          "neglog10qvalue": 3.9622767014290465,
+          "cutoff": null,
+          "signature": "Node269neg",
+          "diff": -0.010375810838784258
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node270neg",
+          "diff": -0.0003533655158089736
+        },
+        {
+          "neglog10qvalue": 0.3604391211159163,
+          "cutoff": null,
+          "signature": "Node271neg",
+          "diff": 0.004773251713233618
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node272neg",
+          "diff": -0.0012293608836773868
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node273neg",
+          "diff": 0.002360540741485499
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node274neg",
+          "diff": 0.002702139302794857
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node275neg",
+          "diff": 0.0017325528103200275
+        },
+        {
+          "neglog10qvalue": 3.888037974052379,
+          "cutoff": null,
+          "signature": "Node276neg",
+          "diff": 0.014604211611832743
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node277neg",
+          "diff": 0.002090170528378776
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node278neg",
+          "diff": -0.00011718104448066203
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node279neg",
+          "diff": -0.0004741876443556125
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node280neg",
+          "diff": 0.0016688460275765915
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node281neg",
+          "diff": 0.0043403904551580705
+        },
+        {
+          "neglog10qvalue": 3.943726326735227,
+          "cutoff": null,
+          "signature": "Node282neg",
+          "diff": 0.008080273124326824
+        },
+        {
+          "neglog10qvalue": 0.26202082604696625,
+          "cutoff": null,
+          "signature": "Node283neg",
+          "diff": 0.002255782181433402
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node284neg",
+          "diff": 0.0012753977203648955
+        },
+        {
+          "neglog10qvalue": 1.2812477217992082,
+          "cutoff": null,
+          "signature": "Node285neg",
+          "diff": 0.01526848192046698
+        },
+        {
+          "neglog10qvalue": 0.011086621838997349,
+          "cutoff": null,
+          "signature": "Node286neg",
+          "diff": 0.0030321165145333123
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node287neg",
+          "diff": -0.0005131402844774093
+        },
+        {
+          "neglog10qvalue": 1.440660333062027,
+          "cutoff": null,
+          "signature": "Node288neg",
+          "diff": 0.003790435241426569
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node289neg",
+          "diff": -0.003501715654068165
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node290neg",
+          "diff": 0.0029577008058561905
+        },
+        {
+          "neglog10qvalue": 3.4870962147398665,
+          "cutoff": null,
+          "signature": "Node291neg",
+          "diff": -0.008202985080962405
+        },
+        {
+          "neglog10qvalue": 1.049914452007827,
+          "cutoff": null,
+          "signature": "Node292neg",
+          "diff": 0.004439603416658141
+        },
+        {
+          "neglog10qvalue": 1.5032979719864812,
+          "cutoff": null,
+          "signature": "Node293neg",
+          "diff": 0.0035682180119274882
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node294neg",
+          "diff": -0.0007703918531065567
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node295neg",
+          "diff": 0.0017726029646178254
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node296neg",
+          "diff": 0.00014810022663280895
+        },
+        {
+          "neglog10qvalue": 1.3757210653418537,
+          "cutoff": null,
+          "signature": "Node297neg",
+          "diff": 0.0034629080364650074
+        },
+        {
+          "neglog10qvalue": 3.0672159638683683,
+          "cutoff": null,
+          "signature": "Node298neg",
+          "diff": 0.009237635804065726
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node299neg",
+          "diff": 0.0042274013259502394
+        },
+        {
+          "neglog10qvalue": 0,
+          "cutoff": null,
+          "signature": "Node300neg",
+          "diff": -0.0006939305034097237
+        },
+        {
+          "neglog10qvalue": null,
+          "cutoff": 1.3010299956639813,
+          "signature": null,
+          "diff": 0.026608779260430957
+        },
+        {
+          "neglog10qvalue": null,
+          "cutoff": 1.3010299956639813,
+          "signature": null,
+          "diff": -0.04996363939193545
+        }
+      ]
+    }
+  ],
+  "marks": [
+    {
+      "name": "marks",
+      "type": "symbol",
+      "from": {
+        "data": "source",
+        "transform": [
+          {
+            "type": "filter",
+            "test": "datum[\"diff\"] !== null && !isNaN(datum[\"diff\"]) && datum[\"neglog10qvalue\"] !== null && !isNaN(datum[\"neglog10qvalue\"])"
+          }
+        ]
+      },
+      "properties": {
+        "update": {
+          "x": {"scale": "x","field": "diff"},
+          "y": {"scale": "y","field": "neglog10qvalue"},
+          "size": {"value": 30},
+          "shape": {"value": "circle"},
+          "opacity": {"value": 0.7},
+          "fill": {"value": "#4682b4"}
+        }
+      }
+    },
+    {
+      "name": "cutoff",
+      "type": "line",
+      "from": {
+        "data": "source",
+        "transform": [
+          {
+            "type": "filter",
+            "test": "datum[\"diff\"] !== null && !isNaN(datum[\"diff\"]) && datum[\"cutoff\"] !== null && !isNaN(datum[\"cutoff\"])"
+          }
+        ]
+      },
+      "properties": {
+        "update": {
+          "x": {"scale": "x","field": "diff"},
+          "y": {"scale": "y","field": "cutoff"},
+          "stroke": {"value": "#ff7f0e"}
+        }
+      }
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "linear",
+      "domain": {"data": "source","field": "diff"},
+      "rangeMin": 0,
+      "rangeMax": 500,
+      "round": true,
+      "nice": true,
+      "zero": true
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "domain": {"data": "source","field": "neglog10qvalue"},
+      "rangeMin": 350,
+      "rangeMax": 0,
+      "round": true,
+      "nice": true,
+      "zero": true
+    }
+  ],
+  "axes": [
+    {
+      "type": "x",
+      "scale": "x",
+      "format": "s",
+      "grid": true,
+      "layer": "back",
+      "ticks": 5,
+      "title": "diff"
+    },
+    {
+      "type": "y",
+      "scale": "y",
+      "format": "s",
+      "grid": true,
+      "layer": "back",
+      "title": "neglog10qvalue"
+    }
+  ]
+}
