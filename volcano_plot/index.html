@@ -6,8 +6,11 @@
     <script src="https://vega.github.io/vega-editor/vendor/topojson.js"></script>
     <script src="https://vega.github.io/vega-editor/vendor/d3.layout.cloud.js"></script>
     <script src="https://vega.github.io/vega/vega.min.js"></script>
+    <script src="https://vega.github.io/vega-editor/vendor/vega-embed.min.js" charset="utf-8"></script>
+    <link rel="stylesheet" href="style.css" type="text/css" media="all">
   </head>
   <body>
+    <h1 id="volcano_plot_(prototype)">Volcano Plot (prototype)</h1>
     <div id="vis"></div>
   </body>
 <script type="text/javascript">
@@ -15,6 +18,12 @@
 function parse(spec) {
   vg.parse.spec(spec, function(error, chart) { chart({el:"#vis"}).update(); });
 }
-parse("spec.json");
+// parse("spec.json");
+vg.embed('#vis', "spec.json", function(error, result) {
+  // Callback receiving the View instance and parsed Vega spec
+  // result.view is the View, which resides under the '#vis' element
+  // result.spec is the parsed spec
+  // result.view.update();
+});
 </script>
 </html>

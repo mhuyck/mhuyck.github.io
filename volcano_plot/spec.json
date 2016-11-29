@@ -1,4 +1,5 @@
 {
+"spec": {
   "width": 500,
   "height": 350,
   "padding": "auto",
@@ -3710,4 +3711,5 @@
       "title": "neglog10qvalue"
     }
   ]
+}
 }
