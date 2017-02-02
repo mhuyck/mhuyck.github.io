@@ -3611,6 +3611,13 @@
           "diff": -0.0006939305034097237
         }
       ]
+    },
+    {
+      "name": "selectedPoints",
+      "modify": [
+        {"type": "clear", "test": "!shift"},
+        {"type": "toggle", "signal": "clickedPoint", "field": "id"}
+      ]
     }
   ],
 
@@ -3622,6 +3629,18 @@
         {"type": "@marks:mouseover", "expr": "datum"},
         {"type": "@marks:mouseout", "expr": "{}"}
       ]
+    },
+    {
+      "name": "clickedPoint",
+      "init": 0,
+      "verbose": true,
+      "streams": [{"type": "click", "expr": "datum._id"}]
+    },
+    {
+      "name": "shift",
+      "init": false,
+      "verbose": true,
+      "streams": [{"type": "click", "expr": "event.shiftKey"}]
     }
   ],
 
@@ -3642,10 +3661,16 @@
         "update": {
           "x": {"scale": "x","field": "diff"},
           "y": {"scale": "y","field": "neglog10qvalue"},
-          "size": {"value": 30},
+          "size": {"value": 50},
           "shape": {"value": "circle"},
           "opacity": {"value": 0.7},
-          "fill": {"value": "#4682b4"}
+          "fill": [
+            {
+              "test": "indata('selectedPoints', datum._id, 'id')",
+              "value": "red"
+            },
+            {"value": "#4682b4"}
+          ]
         }
       }
     },
