@@ -22,8 +22,21 @@ function parse(spec) {
 vg.embed('#vis', "spec.json", function(error, result) {
   // Callback receiving the View instance and parsed Vega spec
   // result.view is the View, which resides under the '#vis' element
+  result.view.on("click", function(event, item) {
+    var selectedNodes = result.view.data("selectedNodes").values();
+    // console.log(JSON.stringify(selectedNodes));
+    selectedNodes = selectedNodes.reduce(
+      function(acc, datum) {
+        if (datum['node']) {
+          acc.push({node: datum.node});
+        }
+        return acc;
+      },
+      []
+    );
+    console.log(JSON.stringify(selectedNodes));
+  });
   // result.spec is the parsed spec
-  // result.view.update();
 });
 </script>
 </html>
